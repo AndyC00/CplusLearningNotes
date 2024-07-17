@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\RollTwoDice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:RollTwoDice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Simple_Dice.cpp",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp",
+              "RelativeDocumentMoniker": "Simple_Dice.cpp",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp",
+              "RelativeToolTip": "Simple_Dice.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T03:51:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RollTwoDice.cpp",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\RollTwoDice.cpp",
               "RelativeDocumentMoniker": "RollTwoDice.cpp",
               "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\RollTwoDice.cpp",
               "RelativeToolTip": "RollTwoDice.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-16T02:02:50.842Z",
               "EditorCaption": ""
