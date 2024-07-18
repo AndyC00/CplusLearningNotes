@@ -24,6 +24,7 @@
     <ProjectGuid>{9aed0a04-5936-4a9a-a478-fd24c30efeef}</ProjectGuid>
     <RootNamespace>CLearningNotes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C++SelfExcise</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
