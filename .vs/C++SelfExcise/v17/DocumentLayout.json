@@ -4,17 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{B986B7BA-4372-4376-8918-9BA55EFA4725}|..\\AI-Bot_Letter_Guess\\AI-Bot_Letter_Guess.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\AI-Bot_Letter_Guess\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57A5AF-186B-4E35-A50F-3AFA5465A61E}|..\\Hidden_Treasure\\Hidden_Treasure.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Hidden_Treasure\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +23,9 @@
               "RelativeDocumentMoniker": "..\\AI-Bot_Letter_Guess\\Main.cpp",
               "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\AI-Bot_Letter_Guess\\Main.cpp",
               "RelativeToolTip": "..\\AI-Bot_Letter_Guess\\Main.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-18T01:52:54.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Hidden_Treasure\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Hidden_Treasure\\main.cpp",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Hidden_Treasure\\main.cpp",
-              "RelativeToolTip": "..\\Hidden_Treasure\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T20:51:20.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Header.h",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Header.h",
-              "RelativeDocumentMoniker": "Header.h",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Header.h",
-              "RelativeToolTip": "Header.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-17T07:40:07.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Main.cpp",
-              "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Main.cpp",
-              "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T07:23:17.75Z",
               "EditorCaption": ""
             }
           ]
