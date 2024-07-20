@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B986B7BA-4372-4376-8918-9BA55EFA4725}|..\\AI-Bot_Letter_Guess\\AI-Bot_Letter_Guess.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\AI-Bot_Letter_Guess\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Simple_Dice.cpp",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp",
+              "RelativeDocumentMoniker": "Simple_Dice.cpp",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp",
+              "RelativeToolTip": "Simple_Dice.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T14:39:30.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\AI-Bot_Letter_Guess\\Main.cpp",
               "RelativeDocumentMoniker": "..\\AI-Bot_Letter_Guess\\Main.cpp",

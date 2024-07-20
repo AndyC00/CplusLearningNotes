@@ -4,7 +4,6 @@
 #include <ctime>
 #include "Header.h"
 
-
 class player
 {
 public:
