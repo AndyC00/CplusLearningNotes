@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8123BA7C-A357-4D61-B37F-3D63876DF97C}|..\\Using Enumerations\\Using Enumerations.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using Enumerations\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AED0A04-5936-4A9A-A478-FD24C30EFEEF}|C\u002B\u002BLearningNotes.vcxproj|solutionrelative:Simple_Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,6 +25,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using Enumerations\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Using Enumerations\\Main.cpp",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using Enumerations\\Main.cpp",
+              "RelativeToolTip": "..\\Using Enumerations\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T02:44:34.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Simple_Dice.cpp",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\Simple_Dice.cpp",
               "RelativeDocumentMoniker": "Simple_Dice.cpp",
@@ -34,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\AI-Bot_Letter_Guess\\Main.cpp",
               "RelativeDocumentMoniker": "..\\AI-Bot_Letter_Guess\\Main.cpp",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "..\\AI-Bot_Letter_Guess\\Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-18T01:52:54.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T01:52:54.817Z"
             }
           ]
         }
