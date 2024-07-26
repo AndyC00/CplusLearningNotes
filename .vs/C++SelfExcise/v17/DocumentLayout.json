@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\C\u002B\u002BLearningNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D32606DA-C5C1-40D7-B407-74D667284AF0}|..\\UsingObjectFactory\\UsingObjectFactory.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32606DA-C5C1-40D7-B407-74D667284AF0}|..\\UsingObjectFactory\\UsingObjectFactory.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32606DA-C5C1-40D7-B407-74D667284AF0}|..\\UsingObjectFactory\\UsingObjectFactory.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32606DA-C5C1-40D7-B407-74D667284AF0}|..\\UsingObjectFactory\\UsingObjectFactory.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\AmmoPack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32606DA-C5C1-40D7-B407-74D667284AF0}|..\\UsingObjectFactory\\UsingObjectFactory.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\HealthPack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E47E7E57-C327-4AF1-983E-2D25670924F8}|..\\Using STL Containers and Iterators\\Using STL Containers and Iterators.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using STL Containers and Iterators\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity.h",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Entity.h",
-              "RelativeDocumentMoniker": "..\\UsingObjectFactory\\Entity.h",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Entity.h",
-              "RelativeToolTip": "..\\UsingObjectFactory\\Entity.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-24T05:29:11.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AmmoPack.h",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\AmmoPack.h",
-              "RelativeDocumentMoniker": "..\\UsingObjectFactory\\AmmoPack.h",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\AmmoPack.h",
-              "RelativeToolTip": "..\\UsingObjectFactory\\AmmoPack.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-24T05:36:27.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HealthPack.h",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\HealthPack.h",
-              "RelativeDocumentMoniker": "..\\UsingObjectFactory\\HealthPack.h",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\HealthPack.h",
-              "RelativeToolTip": "..\\UsingObjectFactory\\HealthPack.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-24T05:35:44.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Zombie.h",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Zombie.h",
-              "RelativeDocumentMoniker": "..\\UsingObjectFactory\\Zombie.h",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Zombie.h",
-              "RelativeToolTip": "..\\UsingObjectFactory\\Zombie.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-24T05:34:32.02Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\UsingObjectFactory\\Main.cpp",
-              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\UsingObjectFactory\\Main.cpp",
-              "RelativeToolTip": "..\\UsingObjectFactory\\Main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using STL Containers and Iterators\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Using STL Containers and Iterators\\Main.cpp",
+              "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using STL Containers and Iterators\\Main.cpp",
+              "RelativeToolTip": "..\\Using STL Containers and Iterators\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-24T05:27:35.398Z",
+              "WhenOpened": "2024-07-25T23:36:12.239Z",
               "EditorCaption": ""
             }
           ]
