@@ -6,13 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{646309F6-45C2-4E46-A44D-41870064C292}|..\\Using OO Inheritance\\Using OO Inheritance.vcxproj|C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\zombie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Zombie.h",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Zombie.h",
               "RelativeDocumentMoniker": "..\\Using OO Inheritance\\Zombie.h",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Enemy.cpp",
               "RelativeDocumentMoniker": "..\\Using OO Inheritance\\Enemy.cpp",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "enemy.h",
               "DocumentMoniker": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\enemy.h",
               "RelativeDocumentMoniker": "..\\Using OO Inheritance\\enemy.h",
@@ -87,7 +87,7 @@
               "RelativeDocumentMoniker": "..\\Using OO Inheritance\\Main.cpp",
               "ToolTip": "C:\\Users\\chenj\\OneDrive\\\u684C\u9762\\Projects\\Using OO Inheritance\\Main.cpp",
               "RelativeToolTip": "..\\Using OO Inheritance\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-27T03:14:12.342Z",
               "EditorCaption": ""
